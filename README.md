@@ -20,7 +20,7 @@ This is a set of lists of ranks (both for scores and players) based on recalcula
 
 All of the top 10k players' top 100 performances were taken through osu's API. Some scores are missing in final calculations for various reasons, but very few people are affected in any meaningful way by this.
 
-Each individual score consists of an aim, speed and accuracy rating. This was true for osu!tp, and is true for pp now. The biggest difference is that on osu!tp, these three were kept seperate until the very end. These lists are mostly to sate my curiosity of what the leaderboards would look like if they still were (as I believe they should be).
+Each individual score consists of an aim, speed and accuracy rating. This was true for osu!tp, and is true for pp now. The biggest difference is that on osu!tp, these three were kept seperate until the very end. Every player's top 100 scores have been recalculated into their respective aim/speed/acc pp's. These have then been sorted 3 times for by their aim/speed/acc values, and for each list of sorted pp's, they have been weighted using **0.9^n**. This 0.9 is notable. Online, the scores are weighted 0.95^n, but on osu!tp they appear to have been weighted following 0.85^n. **The weight formula was therefore just decided by averaging out the 0.85 and 0.95.**
 
 # Your scores
 
@@ -29,4 +29,4 @@ You can see there's the top 1000 scores in each field, but what about all of you
 
 ---
 
-**If you have any questions, please [message me on reddit.](https://www.reddit.com/message/compose/?to=Purper)**
+**If you have any questions, please [post in the recent thread](https://www.reddit.com/r/osugame/comments/4nm4ct/top_10k_players_aim_speed_and_acc_pp_like_osutp/) or [message me on reddit.](https://www.reddit.com/message/compose/?to=Purper)**
