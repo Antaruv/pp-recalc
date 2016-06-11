@@ -1,3 +1,7 @@
+
+
+# Recalculated pp
+
 [Leaderboards sorted by total pp](https://github.com/Antaruv/pp-recalc/blob/master/pp.markdown)  
 [Leaderboards sorted by aim pp](https://github.com/Antaruv/pp-recalc/blob/master/aim.markdown)  
 [Leaderboards sorted by speed pp](https://github.com/Antaruv/pp-recalc/blob/master/speed.markdown)  
@@ -11,8 +15,6 @@
 [Top 1000 scores by acc pp](https://github.com/Antaruv/pp-recalc/blob/master/scoresacc.markdown)  
 
 ---
-
-# Recalculated pp
 
 This is a set of lists of ranks (both for scores and players) based on recalculations done approximately the same way osu!tp did them. The strain values for every map and mod combination necessary were calculated with oppai. The pp calculations themselves were rewritten into Ruby for my personal ease of use. The scores won't all be accurate with what oppai says or what the website says, but they should all be within realm of acceptable error.
 
